@@ -1,45 +1,43 @@
-# Olá! Eu sou o Lucas Lima 👋
-### Desenvolvedor Back-end | Especialista em Java & Spring Boot
+# Hello! I'm Lucas Lima 👋
+### Back-end Developer | Java & Spring Boot Specialist
 
-Eu sou um **Desenvolvedor Back-end** com experiência em **Java** e **Spring Framework**, focado em construir soluções robustas e escaláveis. Minha paixão é transformar requisitos complexos em APIs REST eficientes e sistemas de Microservices bem estruturados.
+I am a **Back-end Developer** with experience in **Java** and the **Spring Framework**, focused on building robust and scalable solutions. My passion is transforming complex requirements into efficient REST APIs and well-structured Microservices systems.
 
 ---
 
-### 🛠️ Minhas Habilidades Chave
+### 🛠️ My Key Skills
 
-| Categoria | Tecnologias Principais |
+| Category | Main Technologies |
 | :--- | :--- |
 | **Back-end & Core** | Java, Spring Boot, API REST, Microservices, Maven |
-| **Banco de Dados** | PostgreSQL, MySQL |
-| **Mensageria** | RabbitMQ, CloudAMQP  |
-| **Qualidade & Práticas** | SOLID, Clean Code, JUnit, Mockito  |
+| **Databases** | PostgreSQL, MySQL |
+| **Messaging** | RabbitMQ, CloudAMQP |
+| **Quality & Practices** | SOLID, Clean Code, JUnit, Mockito |
 
 ---
 
-### 💼 Experiência Rápida
+### 💼 Quick Professional Experience
 
-Atualmente, estou na **NPDI - FAI** como **Analista de Desenvolvimento de Software**. Lá, eu modernizo e dou manutenção em sistemas Java, usando testes (JUnit/Mockito) e boas práticas (SOLID e Clean Code) para garantir a qualidade e performance.
-
----
-
-### 💻 Projetos pessoais
-
-Para melhorar minhas habilidades, resolvi começar a trabalhar em um projeto pessoal de desenvolvimento de uma aplicação completa, onde vou dividir em projetos diferentes. Apesar de ser mais apaixonado pelo Back-end, quero ter a pequena (e trabalhosa) experiência na criação de um Front-end completo com Angular.
-
-O motivo? Ter a oportunidade de experimentar ambas as áreas e poder criar pequenos projetos de exemplos para consultas e de ajuda aos futuros novos programadores (afinal, também sou professor em uma escola técnica de informática 😅).
-
-Comecei criando o Back-end focado mais no uso de mensageria e demonstrando um exemplo de um projeto com microsserviços, então fique a vontade para dar uma olhada.
-
-**Link para o projeto:** [microservice-example](https://github.com/Dev-LucasLima/microservice-example)
+I am currently working at **NPDI - FAI** as a **Software Development Analyst**. There, I modernize and maintain Java systems, utilizing tests (JUnit/Mockito) and best practices (SOLID and Clean Code) to ensure quality and performance.
 
 ---
 
-### 🔗 Vamos nos Conectar!
+### 💻 Personal Projects
 
-Recrutadores e colegas, sintam-se à vontade para entrar em contato!
+To enhance my skills, I decided to start working on a personal project to develop a complete application, which I will divide into different subprojects. Although I am more passionate about Back-end development, I want to gain some (challenging) experience in creating a complete Front-end with Angular and/or other technologies.
 
-* **E-mail:** lucas.lima.1478@outlook.com 
-* **Telefone:** (35) 99966-5394 
-* **Localização:** Santa Rita do Sapucaí - MG, Brasil
-* **Meu Perfil no LinkdIn:** [Link](https://www.linkedin.com/in/lucas-lima-699b1933b/)
-* **Meu Perfil no GitHub:** Você já está aqui!
+The reason? To have the opportunity to experiment with both areas and create small example projects for reference and to help future new programmers (after all, I also teach at a technical IT school 😅).
+
+I started by creating the Back-end, focusing on messaging usage and demonstrating a Microservices example, so feel free to take a look.
+
+**Link to the project:** [microservice-example](https://github.com/Dev-LucasLima/microservice-example).
+
+---
+
+### 🔗 Let's Connect!
+
+* **E-mail:** lucas.lima.1478@outlook.com
+* **Phone:** +55 35 99966-5394
+* **Location:** Santa Rita do Sapucaí - Minas Gerais, Brazil
+* **My LinkedIn Profile:** [Link](https://www.linkedin.com/in/lucas-lima-699b1933b/)
+* **My GitHub Profile:** You are already here!
