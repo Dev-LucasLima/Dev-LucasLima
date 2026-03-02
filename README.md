@@ -11,7 +11,7 @@ I am a **Back-end Developer** with experience in **Java** and the **Spring Frame
 | :--- | :--- |
 | **Back-end & Core** | Java, Spring Boot, API REST, Microservices, Maven |
 | **Databases** | PostgreSQL, MySQL |
-| **Messaging** | RabbitMQ, CloudAMQP |
+| **Messaging** | RabbitMQ, Kafka, CloudAMQP |
 | **Quality & Practices** | SOLID, Clean Code, JUnit, Mockito |
 
 ---
